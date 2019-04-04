@@ -1,5 +1,5 @@
 {
-  "name": "nodeexpress",
+  "name": "express-react",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oyewoas/levelupnodeexpress.git"
+    "url": "git+https://github.com/adisco4420/express-react.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oyewoas/levelupnodeexpress/issues"
+    "url": "https://github.com/adisco4420/express-react/issues"
   },
-  "homepage": "https://github.com/oyewoas/levelupnodeexpress#readme",
+  "homepage": "https://github.com/adisco4420/express-react#readme",
   "dependencies": {
     "concurrently": "^4.1.0",
     "cors": "^2.8.5",
